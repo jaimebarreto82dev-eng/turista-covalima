@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /turista-covalima/
+Sitemap: https://jaimebarreto82dev-eng.github.io/turista-covalima/sitemap.xml
